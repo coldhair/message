@@ -17,7 +17,6 @@ myTest();
 
 //上面只能输出y不能输出X
 
-
 echo '<br/>测试函数外部变量<br/>';
 echo '变量x是：'.$x;
 echo '<br/>';
